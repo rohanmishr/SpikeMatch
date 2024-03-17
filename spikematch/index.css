@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Inter';
+    src:
+        local("Inter"),
+        url("assets/Inter/Inter.ttf") format("truetype")
+}
+
+:root {
+    --bg-col: rgb(20, 20, 20);
+    --text-col: white;
+}
+
+body {
+    background-color: var(--bg-col);
+    color: white;
+    font-family: 'Inter';
+}

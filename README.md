@@ -1,2 +1,2 @@
 # SpikeMatch
-View the replay of an FRC match and track statistics.
+Create viewable replays of FRC matches to evaluate your performance.
